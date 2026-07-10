@@ -1,0 +1,458 @@
+[
+  {
+    "id": "BB01",
+    "label": "BB-01",
+    "name": "Boxblade",
+    "make": "John Deere",
+    "model": "210",
+    "serial": "EE892178"
+  },
+  {
+    "id": "BH02",
+    "label": "BH-02",
+    "name": "Backhoe",
+    "make": "John Deere",
+    "model": "310",
+    "serial": "5G953371"
+  },
+  {
+    "id": "MG01",
+    "label": "MG-01",
+    "name": "Blade 2 (12M)",
+    "make": "CAT",
+    "model": "12M2",
+    "serial": "F9M00394"
+  },
+  {
+    "id": "MG02",
+    "label": "MG-02",
+    "name": "Blade",
+    "make": "CAT",
+    "model": "120G Road Grader",
+    "serial": "087V09873"
+  },
+  {
+    "id": "DZ01",
+    "label": "DZ-01",
+    "name": "D5",
+    "make": "CAT",
+    "model": "D5K2 LGP",
+    "serial": "KTY207488"
+  },
+  {
+    "id": "DZ04",
+    "label": "DZ-04",
+    "name": "650",
+    "make": "John Deere",
+    "model": "650K LGP",
+    "serial": "KS362929"
+  },
+  {
+    "id": "DZ05",
+    "label": "DZ-05",
+    "name": "D3",
+    "make": "CAT",
+    "model": "D3-12 LGP",
+    "serial": "XKY04998"
+  },
+  {
+    "id": "EX01",
+    "label": "EX-01",
+    "name": "EX320",
+    "make": "CAT",
+    "model": "320F L",
+    "serial": "YBM10259"
+  },
+  {
+    "id": "EX02",
+    "label": "EX-02",
+    "name": "EX313",
+    "make": "CAT",
+    "model": "313F L GC",
+    "serial": "HDK10365"
+  },
+  {
+    "id": "EX03",
+    "label": "EX-03",
+    "name": "EX320",
+    "make": "CAT",
+    "model": "320 Build 07C",
+    "serial": "HEX20856"
+  },
+  {
+    "id": "EX04",
+    "label": "EX-04",
+    "name": "EX317",
+    "make": "CAT",
+    "model": "317-07GC Hydraulic Excavator",
+    "serial": "ZCF00325"
+  },
+  {
+    "id": "FK02",
+    "label": "FK-02",
+    "name": "Forklift",
+    "make": "Toyota",
+    "model": "Pneumatic Tire Forklift",
+    "serial": "8FGU25-62988"
+  },
+  {
+    "id": "MX02",
+    "label": "MX-02",
+    "name": "Mini Ex",
+    "make": "CAT",
+    "model": "305E2 CR",
+    "serial": "H5M05849"
+  },
+  {
+    "id": "MX03",
+    "label": "MX-03",
+    "name": "Mini Ex",
+    "make": "John Deere",
+    "model": "75G",
+    "serial": "1FF075GXVJJ016563"
+  },
+  {
+    "id": "MX04",
+    "label": "MX-04",
+    "name": "Mini Ex",
+    "make": "Bobcat",
+    "model": "Mini Ex",
+    "serial": "B4GM18661"
+  },
+  {
+    "id": "MX05",
+    "label": "MX-05",
+    "name": "Mini Ex",
+    "make": "",
+    "model": "Mini Ex",
+    "serial": "5G508091"
+  },
+  {
+    "id": "JD5100",
+    "label": "JD-5100",
+    "name": "John Deere 5100 Tractor",
+    "make": "Personal",
+    "model": "Andy",
+    "serial": ""
+  },
+  {
+    "id": "SS04",
+    "label": "SS-04",
+    "name": "Skid",
+    "make": "Bobcat",
+    "model": "T770",
+    "serial": "ATE336560"
+  },
+  {
+    "id": "SS05",
+    "label": "SS-05",
+    "name": "Skid",
+    "make": "Bobcat",
+    "model": "T770 VCTL SJC",
+    "serial": "AT6345201"
+  },
+  {
+    "id": "SS08",
+    "label": "SS-08",
+    "name": "Skid",
+    "make": "Bobcat",
+    "model": "T740",
+    "serial": "B6K113050"
+  },
+  {
+    "id": "SS09",
+    "label": "SS-09",
+    "name": "Skid",
+    "make": "Bobcat",
+    "model": "T770",
+    "serial": "ATE350205"
+  },
+  {
+    "id": "SS10",
+    "label": "SS-10",
+    "name": "Skid",
+    "make": "Bobcat",
+    "model": "T740",
+    "serial": "B7EH12017"
+  },
+  {
+    "id": "RL01",
+    "label": "RL-01",
+    "name": "Roller",
+    "make": "Bomag",
+    "model": "",
+    "serial": "101720122965"
+  },
+  {
+    "id": "RL02",
+    "label": "RL-02",
+    "name": "Roller",
+    "make": "CAT",
+    "model": "CS44B",
+    "serial": "LCS300289"
+  },
+  {
+    "id": "RL03",
+    "label": "RL-03",
+    "name": "Roller",
+    "make": "Dynapac",
+    "model": "CA2500",
+    "serial": "10000167CHA020208"
+  },
+  {
+    "id": "RL05",
+    "label": "RL-05",
+    "name": "Roller",
+    "make": "Dynapac",
+    "model": "CA2500PD",
+    "serial": "10000167LNA033685"
+  },
+  {
+    "id": "WT02",
+    "label": "WT-02",
+    "name": "F750",
+    "make": "Ford",
+    "model": "F750 Cummins 6.7L",
+    "serial": "3FRZNF7FA0CV152677"
+  },
+  {
+    "id": "WT03",
+    "label": "WT-03",
+    "name": "F750",
+    "make": "Ford",
+    "model": "F-750 XLT 2000 gal 4x2 Water Truck",
+    "serial": "3FRWF7FL3FV000290"
+  },
+  {
+    "id": "DP03",
+    "label": "DP-03",
+    "name": "Dump Truck",
+    "make": "Western Star",
+    "model": "TR",
+    "serial": "5KKAFCG1FPGRA433"
+  },
+  {
+    "id": "DP04",
+    "label": "DP-04",
+    "name": "Haul Truck",
+    "make": "Mack",
+    "model": "Haul Truck 3 Axle Tag Axle",
+    "serial": "1M1AJ07Y57N010100"
+  },
+  {
+    "id": "DP05",
+    "label": "DP-05",
+    "name": "Kenworth",
+    "make": "Kenworth",
+    "model": "W900 Semi Truck",
+    "serial": "1XKWDB9X4RS627333"
+  },
+  {
+    "id": "SVW02",
+    "label": "SVW02",
+    "name": "Sweeper",
+    "make": "Lay-Mor",
+    "model": "SM300",
+    "serial": "37561"
+  },
+  {
+    "id": "SVW03",
+    "label": "SVW03",
+    "name": "Sweeper",
+    "make": "",
+    "model": "RJT 350",
+    "serial": "413766"
+  },
+  {
+    "id": "LD02",
+    "label": "LD-02",
+    "name": "Loader (Shop)",
+    "make": "Volvo",
+    "model": "L90E Wheel Loader",
+    "serial": "L90EV66697"
+  },
+  {
+    "id": "OT01",
+    "label": "OT-01",
+    "name": "Off Road Truck",
+    "make": "John Deere",
+    "model": "260E",
+    "serial": "1DW260ETAK6697631"
+  },
+  {
+    "id": "OT02",
+    "label": "OT-02",
+    "name": "Off Road Truck",
+    "make": "CAT",
+    "model": "725",
+    "serial": "3T901174"
+  },
+  {
+    "id": "FT01",
+    "label": "FT-01",
+    "name": "2WD Dodge",
+    "make": "Ram",
+    "model": "2500 Crew Cab 6.7L Diesel",
+    "serial": "3C6UR4HL7JG387762"
+  },
+  {
+    "id": "FT02",
+    "label": "FT-02",
+    "name": "Serv. Truck",
+    "make": "Ford",
+    "model": "F-450 Cab & Chassis 6.7L Diesel",
+    "serial": "1FDUF4GT0BFC26466"
+  },
+  {
+    "id": "FT04",
+    "label": "FT-04",
+    "name": "4WD FT Dodge Truck",
+    "make": "Ram",
+    "model": "2500 Heavy Duty Crew Cab 6.7L Diesel",
+    "serial": "3C6UR5HL8JG315443"
+  },
+  {
+    "id": "FT05",
+    "label": "FT-05",
+    "name": "GMC Sierra",
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "serial": "1GP49SEY1LF228331"
+  },
+  {
+    "id": "FT06",
+    "label": "FT-06",
+    "name": "2019 Dodge",
+    "make": "Dodge",
+    "model": "Ram 3500",
+    "serial": "3C63RRGL5KG665182"
+  },
+  {
+    "id": "FT07",
+    "label": "FT-07",
+    "name": "2005 2WD White Ford",
+    "make": "Ford",
+    "model": "F-150",
+    "serial": "1FTRX12W85FA33553"
+  },
+  {
+    "id": "FT09",
+    "label": "FT-09",
+    "name": "2022 Ram 3500",
+    "make": "Ram",
+    "model": "3500 2 Door Cab & Chassis 6.7L Diesel",
+    "serial": "3C7WR5BL5NG279843"
+  },
+  {
+    "id": "FT10",
+    "label": "FT-10",
+    "name": "GMC",
+    "make": "GMC",
+    "model": "2500 Cab & Chassis 6.7L",
+    "serial": "1GT5WLEY0SF200354"
+  },
+  {
+    "id": "FT11",
+    "label": "FT-11",
+    "name": "2024 Chevy Silverado",
+    "make": "Chevy",
+    "model": "Silverado Gas 4X4",
+    "serial": "1GC3YLE79RF342862"
+  },
+  {
+    "id": "ED02",
+    "label": "ED-02",
+    "name": "RANCO END DUMP",
+    "make": "RANCO",
+    "model": "TL",
+    "serial": "WL008786"
+  },
+  {
+    "id": "CT01",
+    "label": "CT-01",
+    "name": "Pressure Wash Trailer",
+    "make": "King Ranch",
+    "model": "",
+    "serial": "17YBP1221KB068463"
+  },
+  {
+    "id": "CT02",
+    "label": "CT-02",
+    "name": "Fuel Trailer",
+    "make": "Texas Pride",
+    "model": "UT Trailer",
+    "serial": "17XFP162851083651"
+  },
+  {
+    "id": "CT03",
+    "label": "CT-03",
+    "name": "Alum Trailer",
+    "make": "Gooseneck",
+    "model": "LS",
+    "serial": "16GA31627LB074479"
+  },
+  {
+    "id": "CT04",
+    "label": "CT-04",
+    "name": "Big Tex",
+    "make": "Big Tex",
+    "model": "FB",
+    "serial": "16V3F3321M6029668"
+  },
+  {
+    "id": "CT07",
+    "label": "CT-07",
+    "name": "Ameritrail Trailer",
+    "make": "Ameritrail",
+    "model": "",
+    "serial": "17YBP1628EB056132"
+  },
+  {
+    "id": "CT09",
+    "label": "CT-09",
+    "name": "Trash End Dump",
+    "make": "Gooseneck",
+    "model": "DP",
+    "serial": "16GG51623MB033885"
+  },
+  {
+    "id": "CT10",
+    "label": "CT-10",
+    "name": "Concrete Trailer",
+    "make": "Gooseneck",
+    "model": "UT",
+    "serial": "16GU31623MB074798"
+  },
+  {
+    "id": "CT11",
+    "label": "CT-11",
+    "name": "Diamond C Trailer",
+    "make": "Diamond C",
+    "model": "FMAX210 equipment trailer",
+    "serial": "46UFU3521R1278009"
+  },
+  {
+    "id": "CT12",
+    "label": "CT-12",
+    "name": "Lowboy Trailer",
+    "make": "Eager Beaver",
+    "model": "50GSL/3 Tri/A",
+    "serial": "112SD248X3L060933"
+  },
+  {
+    "id": "PC01",
+    "label": "PC-01",
+    "name": "Air Compressor",
+    "make": "Bobcat",
+    "model": "PA185",
+    "serial": "22BKAHK91"
+  },
+  {
+    "id": "LP01",
+    "label": "LP-01",
+    "name": "Light Tower",
+    "make": "Allmand",
+    "model": "Light Tower",
+    "serial": ""
+  }
+]

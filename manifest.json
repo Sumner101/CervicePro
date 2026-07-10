@@ -1,0 +1,17 @@
+{
+  "name": "CervicePro",
+  "short_name": "CervicePro",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#111820",
+  "theme_color": "#651c27",
+  "description": "Heavy-equipment fault reporting and service management prototype.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
